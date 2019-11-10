@@ -12,4 +12,6 @@ sudo apt-get install vlc -y
 sudo apt-get install vim -y
 sudo apt install chromium-browser -y
 sudo apt-get install git -y
+git config --global user.email abhay7more@gmail.com
+git config --global user.name abhayMore
 echo ".......The process ended and you are updated to your requirements.......";
